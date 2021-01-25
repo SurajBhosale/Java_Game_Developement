@@ -1,1 +1,2 @@
-# Java_Game_Developement
+# Save the galaxy from Invaders
+Space Invaders game using Java UI
